@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Olá! Eu sou **Victor Antonio Machado**. Tenho **16 anos**, nasci em **23 de outubro de 2009** e estou no **3º ano do Ensino Médio** em uma escola cívico-militar.
 
