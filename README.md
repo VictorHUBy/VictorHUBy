@@ -40,4 +40,22 @@ Evoluir cada vez mais na área de **modelagem 3D e tecnologia**, participar de p
 
 ### 🦖 *Criatividade em movimento. Ideias ganhando forma.*
 
+# Olá, eu sou Victor Antonio Machado! 👋
+
+Tenho 16 anos e atualmente estou no 3º ano do Ensino Médio em uma escola cívico-militar.
+
+Trabalho com modelagem 3D na Sigma 3 e tenho interesse por tecnologia, criatividade e design digital.
+
+## Área de atuação
+
+- Modelagem 3D
+- Design digital
+- Criação de modelos e projetos visuais
+
+## Objetivo
+
+Aprender cada vez mais sobre modelagem 3D e tecnologia, evoluindo profissionalmente e participando de novos projetos.
+
+🦖
+
 </div>
