@@ -2,44 +2,75 @@
 
 # 🦖 Victor Antonio Machado
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=500&lines=Estudante+e+Modelador+3D;Criando+ideias+em+tr%C3%AAs+dimens%C3%B5es+%F0%9F%A6%96;Sempre+aprendendo+algo+novo!" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=650&lines=Modelador+3D+%40+Sigma+3;Estudante+do+3%C2%BA+ano+do+Ensino+M%C3%A9dio;Criando+ideias+com+arte,+c%C3%B3digo+e+criatividade;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<br />
+<br>
 
-![Dinossauro](https://img.shields.io/badge/%F0%9F%A6%96-Modelando%20o%20futuro-35C759?style=for-the-badge)
+![3D](https://img.shields.io/badge/🦖-Modelagem%203D-35C759?style=for-the-badge)
+![Tecnologia](https://img.shields.io/badge/Tecnologia-0A66C2?style=for-the-badge)
+![Criatividade](https://img.shields.io/badge/Criatividade-FF8C00?style=for-the-badge)
 
 </div>
 
 ---
 
-##  Sobre mim
+# 👋 Olá!
 
-Olá! Eu sou **Victor Antonio Machado**. Tenho **16 anos**, nasci em **23 de outubro de 2009** e estou no **3º ano do Ensino Médio** em uma escola cívico-militar.
+Meu nome é **Victor Antonio Machado**, tenho **16 anos** e sou estudante do **3º ano do Ensino Médio**.
 
-Trabalho com **modelos 3D** na **Sigma 3**, unindo criatividade e tecnologia para transformar ideias em projetos visuais. 🦖
+Atualmente trabalho como **Modelador 3D** na **Sigma 3**, transformando conceitos em modelos digitais voltados para projetos visuais. Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas para unir criatividade e inovação.
 
-## 🛠️ No que trabalho
+---
+
+# 💻 Áreas de interesse
+
+- 🦖 Modelagem e visualização 3D
+- 💻 Desenvolvimento de software
+- 🤖 Inteligência Artificial
+- ⚙️ Sistemas Embarcados
+- ☁️ DevOps
+- 🔒 Cibersegurança
+- 🎮 Desenvolvimento de jogos
+- 🎨 Design digital e criação visual
+
+---
+
+# 🛠 Tecnologias que estudo
 
 <div align="center">
 
-![Models 3D](https://img.shields.io/badge/Modelagem%203D-35C759?style=for-the-badge&logo=blender&logoColor=white)
-![Design Digital](https://img.shields.io/badge/Design%20Digital-0A66C2?style=for-the-badge&logo=adobe&logoColor=white)
-![Criatividade](https://img.shields.io/badge/Criatividade-FF8C00?style=for-the-badge&logo=sparkles&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
 
-- 🧊 Criação de modelos e projetos em 3D
-- 🎨 Design, criatividade e desenvolvimento visual
-- 📚 Aprendizado constante em tecnologia e criação digital
+---
 
-## 🚀 Meu objetivo
+# 🚀 Projetos
 
-Evoluir cada vez mais na área de **modelagem 3D e tecnologia**, participar de projetos desafiadores e transformar boas ideias em realidade.
+Além da modelagem 3D, gosto de desenvolver projetos pessoais para aprender na prática.
+
+- 🧠 Assistente virtual em Python
+- 🎴 Desenvolvimento de um TCG autoral
+- 🎮 Protótipos e ideias para jogos
+- 📱 Conceitos de aplicativos
+- 🌐 Estudos em desenvolvimento web
+
+---
+
+# 📈 Objetivo
+
+Busco evoluir continuamente como profissional, aprofundando meus conhecimentos em tecnologia e desenvolvimento, contribuindo para projetos que unam criatividade, inovação e impacto real.
+
+---
 
 <div align="center">
 
-### 🦖 *Utilizando a única coisa que ainda possuímos. Criatividade.*
+## 🦖 *"Criatividade transforma ideias em realidade."*
 
-
+*"Sempre existe uma nova habilidade para aprender e um novo desafio para superar."*
 
 </div>
