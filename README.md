@@ -16,13 +16,13 @@
 
 Olá! Eu sou **Victor Antonio Machado**. Tenho **16 anos**, nasci em **23 de outubro de 2009** e estou no **3º ano do Ensino Médio** em uma escola cívico-militar.
 
-Trabalho com **modelagem 3D** na **Sigma 3**, unindo criatividade e tecnologia para transformar ideias em projetos visuais. 🦖
+Trabalho com **modelos 3D** na **Sigma 3**, unindo criatividade e tecnologia para transformar ideias em projetos visuais. 🦖
 
 ## 🛠️ No que trabalho
 
 <div align="center">
 
-![Modelagem 3D](https://img.shields.io/badge/Modelagem%203D-35C759?style=for-the-badge&logo=blender&logoColor=white)
+![Models 3D](https://img.shields.io/badge/Modelagem%203D-35C759?style=for-the-badge&logo=blender&logoColor=white)
 ![Design Digital](https://img.shields.io/badge/Design%20Digital-0A66C2?style=for-the-badge&logo=adobe&logoColor=white)
 ![Criatividade](https://img.shields.io/badge/Criatividade-FF8C00?style=for-the-badge&logo=sparkles&logoColor=white)
 
