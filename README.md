@@ -2,7 +2,7 @@
 
 # 🦖 Victor Antonio Machado
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Ethical+Hacking;Rust+%26+Software+Development;Modelagem+3D+na+Sigma+3;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=700&lines=Interesse+em+Cybersecurity+%26+Ethical+Hacking;Estudando+Rust+%26+Software+Development;Modelagem+3D+na+Sigma+3;Criando+projetos+e+aprendendo+na+prática" />
 
 <br>
 
@@ -17,24 +17,29 @@
 
 ## 👋 Sobre mim
 
-Olá! Eu sou **Victor Antonio Machado**, estudante do **3º ano do Ensino Médio** e apaixonado por tecnologia.
+Olá! Eu sou **Victor Antonio Machado**, estudante do **3º ano do Ensino Médio**.
 
-Atualmente trabalho com **Modelagem 3D na Sigma 3** e estou direcionando meus estudos principalmente para **cibersegurança, ethical hacking, Rust e desenvolvimento de software**.
+Atualmente trabalho com **Modelagem 3D na Sigma 3** e tenho interesse principalmente em **cibersegurança e ethical hacking**. Ainda estou começando nessa área e quero aprender mais sobre segurança, redes, sistemas e como as coisas funcionam por trás deles.
 
-Gosto de entender como as coisas funcionam, testar ideias, aprender novas tecnologias e transformar projetos pessoais em experiências práticas.
+Também estou estudando **Rust, Linux, backend, IA e desenvolvimento de software**, além de continuar fazendo projetos por conta própria.
 
 ---
 
-## 🎯 Atualmente estudando
+## 🎯 No que estou focando
 
-- 🔐 **Cibersegurança & Ethical Hacking**
-- 🦀 **Rust** e programação de sistemas
-- 🐧 **Linux** e administração de sistemas
-- 🌐 **Backend & APIs**
-- 🤖 **Inteligência Artificial**
-- 🔧 **Git & GitHub**
-- 🎮 **Desenvolvimento de jogos / Roblox**
-- 🦖 **Modelagem 3D & Blender**
+┃ 🔐 **Cibersegurança & Ethical Hacking** — área que quero conhecer e estudar mais a fundo
+
+┃ 🦀 **Rust** — aprendendo a linguagem e conceitos de programação de sistemas
+
+┃ 🐧 **Linux** — estudando sistemas e ferramentas do ambiente Linux
+
+┃ 🌐 **Backend & APIs** — desenvolvendo minha base em aplicações e servidores
+
+┃ 🤖 **Inteligência Artificial** — explorando ferramentas e possibilidades para projetos
+
+┃ 🎮 **Roblox & Game Development** — criando e experimentando sistemas para jogos
+
+┃ 🦖 **Modelagem 3D & Blender** — área em que já tenho experiência prática
 
 ---
 
@@ -60,41 +65,55 @@ Gosto de entender como as coisas funcionam, testar ideias, aprender novas tecnol
 Desenvolvi um **assistente virtual inspirado no conceito de Jarvis**, explorando automação, programação e interação com sistemas.
 
 ### 🎴 TCG — Jogo de Cartas
-Criação de um **jogo de cartas original**, trabalhando em regras, sistemas, personagens, lore e desenvolvimento da identidade do projeto.
-
-### 🔐 Cybersecurity
-Estudos e experimentos voltados para **segurança da informação, redes, Linux e ethical hacking**, sempre em ambientes autorizados e de aprendizado.
-
-### 🦀 Rust
-Projetos e exercícios para aprofundar conhecimentos em **Rust, programação de sistemas e desenvolvimento de software seguro**.
+Criação de um **jogo de cartas original**, trabalhando em regras, sistemas, personagens, lore e identidade do projeto.
 
 ### 🎮 Game Development
 Experimentos com **Roblox Studio**, criação de sistemas interativos e desenvolvimento de jogos.
 
----
-
-## 🏆 Experiências
-
-### 🤖 IAThon
-Participei do **IAThon**, uma experiência voltada à criação e desenvolvimento de soluções utilizando **Inteligência Artificial**, trabalhando na transformação de uma ideia em projeto.
+### 🦖 Modelagem 3D
+Experiência prática com **modelagem 3D na Sigma 3**, trabalhando com criação e desenvolvimento de modelos.
 
 ---
 
-## 📚 Repositórios em destaque
+## 🏆 IAThon
 
-> Alguns dos meus estudos e projetos em constante evolução.
+Participei do **IAThon em Dois Vizinhos, Paraná**, uma experiência em que trabalhei com outras pessoas na criação e desenvolvimento de uma solução utilizando **Inteligência Artificial**.
 
-- 📖 **[aprender-e-crescer](https://github.com/VictorHUBy/aprender-e-crescer)** — estudos, exercícios e materiais de aprendizado.
-- ⚙️ **[BackEND](https://github.com/VictorHUBy/BackEND)** — experimentos e estudos relacionados a backend.
+Foi uma oportunidade de colocar ideias em prática, trabalhar em equipe e conhecer melhor as possibilidades da IA.
 
 ---
 
-## 🌱 Meu objetivo
+## 📚 Repositórios
 
-Continuar evoluindo como desenvolvedor e construir uma base sólida em **cibersegurança e desenvolvimento de software**, aprofundando meus conhecimentos em **Rust, Linux, sistemas e IA** enquanto desenvolvo projetos próprios.
+┃ 📖 **[aprender-e-crescer](https://github.com/VictorHUBy/aprender-e-crescer)** — estudos, exercícios e materiais de aprendizado.
+
+┃ ⚙️ **[BackEND](https://github.com/VictorHUBy/BackEND)** — experimentos e estudos relacionados a backend.
+
+---
+
+## 🌱 Próximos passos
+
+Quero continuar estudando **cibersegurança, ethical hacking, Rust, Linux e desenvolvimento de software**, construindo projetos enquanto aprendo e melhorando minha base aos poucos.
 
 <div align="center">
 
-### 🦖 *"Criatividade transforma ideias em realidade."*
+<img src="https://komarev.com/ghpvc/?username=VictorHUBy&label=VISITAS+NO+PERFIL&color=35C759&style=for-the-badge" />
+
+<br><br>
+
+<details>
+<summary>🦖 Clique aqui</summary>
+
+<br>
+
+Se você chegou até aqui, provavelmente viu mais do que precisava. 😎
+
+**Valeu por visitar meu perfil!**
+
+</details>
+
+<br>
+
+### 🦖 <i>Aprendendo, criando e vendo no que dá.</i>
 
 </div>
