@@ -1,37 +1,38 @@
 <div align="center">
 
-# 🦖 Victor Antonio Machado
+# 👋 Olá, eu sou Victor Antonio Machado
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=650&lines=Modelador+3D+na+Sigma+3;Estudante+do+3%C2%BA+ano+do+Ensino+M%C3%A9dio;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!" />
+### 🔐 Cybersecurity • 🦀 Rust • 💻 Software Development
 
-<br>
+Estudante de tecnologia apaixonado por **cibersegurança, desenvolvimento de software e sistemas**.
 
-![Modelagem 3D](https://img.shields.io/badge/Modelagem%203D-35C759?style=for-the-badge&logo=blender&logoColor=white)
-![Programação](https://img.shields.io/badge/Programação-0A66C2?style=for-the-badge)
-![Tecnologia](https://img.shields.io/badge/Tecnologia-FF8C00?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-VictorHUBy-181717?style=for-the-badge&logo=github)](https://github.com/VictorHUBy)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Olá! Eu sou **Victor Antonio Machado**, tenho **16 anos** e sou estudante do **3º ano do Ensino Médio**.
+Sou **Victor Antonio Machado**, estudante do 3º ano do Ensino Médio e entusiasta de tecnologia.
 
-Atualmente trabalho com **Modelagem 3D** na **Sigma 3** e gosto de aprender sobre programação, tecnologia e desenvolvimento de software.
+Atualmente estou direcionando meus estudos principalmente para **cibersegurança, ethical hacking, Rust e desenvolvimento de software**. Gosto de entender como sistemas funcionam, experimentar novas tecnologias e transformar ideias em projetos reais.
+
+Também tenho experiência e interesse em **modelagem 3D, desenvolvimento de jogos, IA e projetos com Roblox**.
 
 ---
 
-## 🚀 Áreas de interesse
+## 🎯 Atualmente estudando
 
-- 🦖 Modelagem 3D
-- 💻 Programação
-- 🦀 Rust
-- 🤖 Inteligência Artificial
-- 🔒 Cibersegurança
-- ☁️ DevOps
-- ⚙️ Sistemas Embarcados
-- 🎮 Desenvolvimento de Jogos
+- 🔐 **Cibersegurança & Ethical Hacking**
+- 🦀 **Rust** e programação de sistemas
+- 🐧 **Linux** e administração de sistemas
+- 🌐 **Backend & APIs**
+- 🤖 **Inteligência Artificial**
+- 🔧 **Git & GitHub**
+- 🎮 **Desenvolvimento de jogos / Roblox**
 
 ---
 
@@ -51,24 +52,44 @@ Atualmente trabalho com **Modelagem 3D** na **Sigma 3** e gosto de aprender sobr
 
 ---
 
-## 📂 Projetos pessoais
+## 🚀 Projetos e estudos
 
-- 🤖 Assistente Virtual em Python
-- 🎴 Jogo de Cartas (TCG) original
-- 🔒 Estudos e ferramentas de Cibersegurança
-- 🦀 Projetos para aprender Rust
-- 🌐 Projetos Web
-- 🎮 Protótipos de jogos
-- 📱 Ideias de aplicativos
+### 🔐 Cybersecurity
+Estudos e experimentos voltados para **segurança da informação, redes, Linux e ethical hacking**, sempre em ambientes autorizados e de aprendizado.
+
+### 🦀 Rust
+Projetos e exercícios para aprofundar conhecimentos em **Rust, programação de sistemas e desenvolvimento de software seguro**.
+
+### 💻 Backend & Software
+Projetos para aprender **APIs, lógica de programação, arquitetura e desenvolvimento de aplicações**.
+
+### 🎮 Game Development
+Experimentos com **Roblox Studio, desenvolvimento de jogos e sistemas interativos**.
+
+### 🤖 IA
+Exploração de ferramentas e aplicações de **Inteligência Artificial** para desenvolvimento e automação.
 
 ---
 
-## 🎯 Objetivo
+## 📚 Repositórios em destaque
 
-Quero continuar evoluindo como desenvolvedor, aprendendo novas tecnologias e criando projetos que unam criatividade, programação e inovação.
+> Em constante organização e evolução.
+
+- 📖 **[aprender-e-crescer](https://github.com/VictorHUBy/aprender-e-crescer)** — estudos, exercícios e materiais de aprendizado.
+- ⚙️ **[BackEND](https://github.com/VictorHUBy/BackEND)** — experimentos e estudos relacionados a backend.
+
+---
+
+## 🌱 Objetivo
+
+Construir uma base sólida em **cibersegurança e desenvolvimento de software**, aprofundando meus conhecimentos em Rust, Linux e sistemas enquanto desenvolvo projetos próprios.
+
+> *Aprender, construir, testar e evoluir.* 🚀
+
+---
 
 <div align="center">
 
-### 🦖 *"Criatividade transforma ideias em realidade."*
+### Obrigado por visitar meu perfil! 👋
 
 </div>
