@@ -19,7 +19,7 @@
 
 Olá! Eu sou **Victor Antonio Machado**, estudante do **3º ano do Ensino Médio**.
 
-Atualmente trabalho com **Modelagem 3D na Sigma 3** e tenho interesse principalmente em **cibersegurança e ethical hacking**. Ainda estou começando nessa área e quero aprender mais sobre segurança, redes, sistemas e como as coisas funcionam por trás deles.
+Atualmente trabalho com **Jovem Aprendiz MBRF** e tenho interesse principalmente em **cibersegurança e ethical hacking**. Ainda estou começando nessa área e quero aprender mais sobre segurança, redes, sistemas e como as coisas funcionam por trás deles.
 
 Também estou estudando **Rust, Linux, backend, IA e desenvolvimento de software**, além de continuar fazendo projetos por conta própria.
 
@@ -106,7 +106,7 @@ Quero continuar estudando **cibersegurança, ethical hacking, Rust, Linux e dese
 
 <br>
 
-Se você chegou até aqui, provavelmente viu mais do que precisava. 😎
+Se você chegou até aqui, provavelmente viu mais do que precisava. 
 
 **Valeu por visitar meu perfil!**
 
@@ -114,6 +114,6 @@ Se você chegou até aqui, provavelmente viu mais do que precisava. 😎
 
 <br>
 
-### 🦖 <i>Aprendendo, criando e vendo no que dá.</i>
+### 🦖 <i>Aprendendo, criando e desenvolvendo.</i>
 
 </div>
