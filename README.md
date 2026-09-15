@@ -62,7 +62,7 @@ Também estou estudando **Rust, Linux, backend, IA e desenvolvimento de software
 ## 🚀 Projetos e experiências
 
 ### 🤖 Jarvis
-Desenvolvi um **assistente virtual inspirado no conceito de Jarvis**, explorando automação, programação e interação com sistemas.
+Desenvolvi um **assistente virtual inspirado no conceito de Jarvis**, envolvendo programação e auxilio da IA no processo.
 
 ### 🎴 TCG — Jogo de Cartas
 Criação de um **jogo de cartas original**, trabalhando em regras, sistemas, personagens, lore e identidade do projeto.
