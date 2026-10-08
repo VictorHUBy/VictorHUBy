@@ -1,53 +1,44 @@
 <div align="center">
 
-# 🦖 Victor Antonio Machado
+# Victor Antonio Machado
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=700&lines=Interesse+em+Cybersecurity+%26+Ethical+Hacking;Estudando+Rust+%26+Software+Development;Modelagem+3D+na+Sigma+3;Criando+projetos+e+aprendendo+na+prática" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=700&lines=Interessado+em+Cybersecurity+%26+Ethical+Hacking;Estudando+Rust+%26+Backend;Jovem+Aprendiz+MBRF;Criando+projetos+e+aprendendo+na+pr%C3%A1tica" />
 
 <br>
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-35C759?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Programação](https://img.shields.io/badge/Programação-0A66C2?style=for-the-badge)
-![Tecnologia](https://img.shields.io/badge/Tecnologia-FF8C00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-Olá! Eu sou **Victor Antonio Machado**, estudante do **3º ano do Ensino Médio**.
+Olá! Eu sou **Victor Antonio Machado**, estudante do **3º ano do Ensino Médio** e **Jovem Aprendiz na MBRF** (indústria de alimentos).
 
-Atualmente trabalho com **Jovem Aprendiz MBRF** e tenho interesse principalmente em **cibersegurança e ethical hacking**. Ainda estou começando nessa área e quero aprender mais sobre segurança, redes, sistemas e como as coisas funcionam por trás deles.
-
-Também estou estudando **Rust, Linux, backend, IA e desenvolvimento de software**, além de continuar fazendo projetos por conta própria.
+Tenho interesse principal em **cibersegurança e ethical hacking**. Também estudo **Rust, Linux, backend e desenvolvimento de software**, criando projetos práticos enquanto aprendo.
 
 ---
 
-## 🎯 No que estou focando
+## Foco atual
 
-┃ 🔐 **Cibersegurança & Ethical Hacking** — área que quero conhecer e estudar mais a fundo
-
-┃ 🦀 **Rust** — aprendendo a linguagem e conceitos de programação de sistemas
-
-┃ 🐧 **Linux** — estudando sistemas e ferramentas do ambiente Linux
-
-┃ 🌐 **Backend & APIs** — desenvolvendo minha base em aplicações e servidores
-
-┃ 🤖 **Inteligência Artificial** — explorando ferramentas e possibilidades para projetos
-
-┃ 🎮 **Roblox & Game Development** — criando e experimentando sistemas para jogos
-
-┃ 🦖 **Modelagem 3D & Blender** — área em que já tenho experiência prática
+- **Cibersegurança & Ethical Hacking** — área que quero aprofundar
+- **Rust** — linguagem e conceitos de sistemas
+- **Linux** — ambiente e ferramentas
+- **Backend & APIs** — base de aplicações e servidores
+- **Automação** — soluções práticas para o dia a dia (ex: extensão SIGSIF)
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,41 +50,29 @@ Também estou estudando **Rust, Linux, backend, IA e desenvolvimento de software
 
 ---
 
-## 🚀 Projetos e experiências
+## Projetos em destaque
 
-### 🤖 Jarvis
-Desenvolvi um **assistente virtual inspirado no conceito de Jarvis**, envolvendo programação e auxilio da IA no processo.
+### [sigsif-importador-aves](https://github.com/VictorHUBy/sigsif-importador-aves)
+Extensão Chrome/Edge (Manifest V3) que automatiza o lançamento de diagnósticos de aves (condenação total/parcial) na tela *Alterar Mapa de Abate* do **SIGSIF** (sistema federal de inspeção sanitária).
 
-### 🎴 TCG — Jogo de Cartas
-Criação de um **jogo de cartas original**, trabalhando em regras, sistemas, personagens, lore e identidade do projeto.
+Nascida de uma dor real do dia a dia no SIF/MBRF. Documentação completa em português e inglês, licença MIT.
 
-### 🎮 Game Development
-Experimentos com **Roblox Studio**, criação de sistemas interativos e desenvolvimento de jogos.
-
-### 🦖 Modelagem 3D
-Experiência prática com **modelagem 3D na Sigma 3**, trabalhando com criação e desenvolvimento de modelos.
+### [BackEND](https://github.com/VictorHUBy/BackEND)
+Repositório de estudos e exercícios de backend (JavaScript / Node.js).
 
 ---
 
-## 🏆 IAThon
+## Experiências
 
-Participei do **IAThon em Dois Vizinhos, Paraná**, uma experiência em que trabalhei com outras pessoas na criação e desenvolvimento de uma solução utilizando **Inteligência Artificial**.
-
-Foi uma oportunidade de colocar ideias em prática, trabalhar em equipe e conhecer melhor as possibilidades da IA.
-
----
-
-## 📚 Repositórios
-
-┃ 📖 **[aprender-e-crescer](https://github.com/VictorHUBy/aprender-e-crescer)** — estudos, exercícios e materiais de aprendizado.
-
-┃ ⚙️ **[BackEND](https://github.com/VictorHUBy/BackEND)** — experimentos e estudos relacionados a backend.
+- **Jovem Aprendiz MBRF** — atuação prática em ambiente industrial (SIF)
+- **IAThon** (Dois Vizinhos/PR) — participação em equipe no desenvolvimento de solução com Inteligência Artificial
+- Modelagem 3D (Sigma 3 / Blender)
 
 ---
 
-## 🌱 Próximos passos
+## Próximos passos
 
-Quero continuar estudando **cibersegurança, ethical hacking, Rust, Linux e desenvolvimento de software**, construindo projetos enquanto aprendo e melhorando minha base aos poucos.
+Continuar estudando cibersegurança, ethical hacking, Rust e Linux, enquanto construo projetos práticos e melhoro minha base de software.
 
 <div align="center">
 
@@ -101,19 +80,6 @@ Quero continuar estudando **cibersegurança, ethical hacking, Rust, Linux e dese
 
 <br><br>
 
-<details>
-<summary>🦖 Clique aqui</summary>
-
-<br>
-
-Se você chegou até aqui, provavelmente viu mais do que precisava. 
-
-**Valeu por visitar meu perfil!**
-
-</details>
-
-<br>
-
-### 🦖 <i>Aprendendo, criando e desenvolvendo.</i>
+**Aprendendo, criando e desenvolvendo.**
 
 </div>
