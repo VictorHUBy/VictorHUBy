@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou o **Victor**, tenho 17/18 anos, estou no **3º ano do Ensino Médio** e trabalho como **Jovem Aprendiz na MBRF**.
+Olá! Eu sou o **Victor**, tenho 17 anos, estou no **3º ano do Ensino Médio** e trabalho como **Jovem Aprendiz na MBRF**.
 
 Gosto bastante de tecnologia e programação. Ainda estou explorando várias áreas e aprendendo na prática, sem pressa de me definir em uma só coisa.
 
