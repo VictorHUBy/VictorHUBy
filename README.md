@@ -2,7 +2,7 @@
 
 # 🦖 Victor Antonio Machado
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=760&lines=Interested+in+Cybersecurity+%26+Reverse+Engineering;Learning+Rust+%26+Systems+Programming;Building+Automation+Tools+%26+Software;Learning+by+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=35C759&center=true&vCenter=true&width=760&lines=Curioso+por+natureza%2C+programador+em+constru%C3%A7%C3%A3o;Explorando+Cybersecurity+%26+Reverse+Engineering;Aprendendo+Rust%2C+Linux+e+programa%C3%A7%C3%A3o+de+sistemas;Transformando+ideias+em+projetos" />
 
 <br>
 
@@ -17,54 +17,51 @@
 
 ## 👋 Sobre mim
 
-Olá! Eu sou o **Victor Antonio Machado**, estudante do **3º ano do Ensino Médio** e Jovem Aprendiz na **MBRF, na área ligada ao SIF**.
+E aí! Sou o **Victor**, estudante do **3º ano do Ensino Médio** e Jovem Aprendiz na **MBRF, em uma área ligada ao SIF**.
 
-Gosto de entender como os sistemas funcionam e de criar soluções para problemas práticos. Meu foco de longo prazo é **cibersegurança e engenharia reversa**; enquanto construo essa base, continuo praticando programação, automação e desenvolvimento de software.
+Gosto de descobrir como as coisas funcionam — principalmente quando posso desmontar uma ideia, entender a lógica por trás dela e construir algo meu. Hoje, meu foco principal é **cibersegurança e engenharia reversa**, mas também gosto de backend, automação, inteligência artificial e desenvolvimento de jogos.
 
-Estou estudando **Rust, Linux e fundamentos de segurança**, além de desenvolver projetos com JavaScript, Node.js e Python.
+Não estou aqui só para colecionar tecnologias no perfil: quero aprender construindo projetos, errando, corrigindo e entendendo o que acontece por trás do código.
 
----
+> 🦖 Criatividade transforma ideias em realidade.
 
-## 🎯 No que estou focando
+## 🎯 O que me interessa
 
-- 🔐 **Cibersegurança e engenharia reversa** — aprendendo os fundamentos de análise de software e segurança.
-- 🦀 **Rust e programação de sistemas** — desenvolvendo minha base na linguagem e nos conceitos de baixo nível.
-- ⚙️ **Automação e backend** — criando ferramentas e APIs para resolver problemas concretos.
-- 🤖 **Inteligência artificial** — explorando possibilidades para projetos e experimentos.
+- 🔐 **Cibersegurança e engenharia reversa** — entender sistemas, analisar software e aprender segurança de forma ética.
+- 🦀 **Rust e programação de sistemas** — explorar uma linguagem que me desafia a entender melhor memória, desempenho e baixo nível.
+- ⚙️ **Backend e automação** — criar APIs e ferramentas que resolvam problemas de verdade.
+- 🤖 **Inteligência artificial** — experimentar ideias e descobrir maneiras úteis de aplicar IA.
+- 🎮 **Jogos e criação 3D** — desenvolver sistemas interativos e dar forma a ideias próprias.
 
-Também tenho interesse em desenvolvimento de jogos, modelagem 3D e criação de sistemas autorais.
-
----
-
-## 🚀 Projetos em destaque
+## 🚀 Projetos que estou construindo
 
 ### 🐔 [SIGSIF Importador de Aves](https://github.com/VictorHUBy/sigsif-importador-aves)
 
-Extensão para Chrome e Edge que automatiza o lançamento de diagnósticos de aves no SIGSIF a partir de texto. O projeto surgiu de uma necessidade real do ambiente de trabalho e busca reduzir tarefas repetitivas.
+Uma extensão para Chrome e Edge que automatiza o lançamento de diagnósticos de aves no SIGSIF a partir de texto. Nasceu de uma necessidade real do ambiente de trabalho: reduzir tarefas repetitivas e tornar o processo mais prático.
 
-**O que exploro neste projeto:** JavaScript, manipulação do DOM, validação de dados, interação com uma interface dinâmica e automação de navegador.
+**Exploro aqui:** JavaScript, manipulação do DOM, validação de dados e automação de navegador.
 
 ### 📚 [BackEND — API de livros](https://github.com/VictorHUBy/BackEND)
 
-Projeto de estudos com Node.js e Express para praticar a criação de uma API REST de gerenciamento de livros, incluindo rotas para consulta, cadastro, atualização, empréstimo e devolução.
+Uma API REST feita para praticar backend com Node.js e Express, com rotas para gerenciar livros e operações relacionadas a empréstimos e devoluções.
+
+**Exploro aqui:** rotas, organização de API e integração com banco de dados.
 
 ### ⚛️ [WebAula](https://github.com/VictorHUBy/WebAula)
 
-Projeto de aprendizado com React e Vite, praticando componentes, props, estado e renderização de listas.
+Meu espaço de prática com React e Vite, trabalhando com componentes, props, estado e renderização de listas enquanto avanço no desenvolvimento frontend.
 
 ### 🤖 [Jarvis — Assistente virtual](https://github.com/VictorHUBy/Jarvis-projeto-Incompleto-)
 
-Projeto experimental inspirado em assistentes virtuais, criado para explorar programação e automação. Está incompleto e representa uma parte do meu processo de aprendizado.
+Projeto experimental em Python inspirado em assistentes virtuais. Ainda está incompleto — e faz parte do meu processo de aprender a transformar uma ideia em software.
 
 ### 🎴 TCG Nyxen
 
-Jogo de cartas original em desenvolvimento. Trabalho na criação das regras, habilidades, personagens, lore e identidade visual, explorando também o design de sistemas.
-
----
+Um jogo de cartas autoral que estou desenvolvendo. Além das regras e habilidades, crio personagens, história, criaturas e identidade visual. É onde junto programação, design de sistemas e criatividade.
 
 ## 🛠️ Tecnologias
 
-**Já utilizei em projetos e estudos**
+**Já usei em projetos e estudos**
 
 <div align="center">
 
@@ -73,13 +70,13 @@ Jogo de cartas original em desenvolvimento. Trabalho na criação das regras, ha
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
-**Estudando e explorando**
+**Estudando e aprofundando**
 
 <div align="center">
 
@@ -89,19 +86,18 @@ Jogo de cartas original em desenvolvimento. Trabalho na criação das regras, ha
 
 </div>
 
----
+## 🧩 Fora do código
 
-## 🧩 Outras experiências e interesses
+- 🧊 **Modelagem 3D:** experiência de aprendizado na Sigma 3.
+- 🎮 **Roblox Studio e desenvolvimento de jogos:** experimentando mecânicas e sistemas interativos.
+- 🧠 **IAThon — Dois Vizinhos, Paraná:** participação em uma atividade colaborativa para criar soluções com inteligência artificial.
+- 🧪 **Projetos autorais:** gosto de misturar áreas diferentes e ver até onde uma ideia pode chegar.
 
-- 🦖 **Modelagem 3D — Sigma 3:** experiência prática com criação e desenvolvimento de modelos.
-- 🎮 **Roblox Studio e game development:** experimentos com sistemas interativos e jogos.
-- 🏆 **IAThon — Dois Vizinhos, Paraná:** participação em uma atividade colaborativa de criação de soluções com inteligência artificial.
+## 🌱 Próximo nível
 
----
+Quero fortalecer minha base em **Rust, Linux, cibersegurança e engenharia reversa**, sem deixar de criar projetos próprios. Prefiro aprender um conceito e colocá-lo em prática do que só passar por mais uma lista de tutoriais.
 
-## 🌱 Próximos passos
-
-Quero aprofundar meus conhecimentos em **cibersegurança, engenharia reversa, Rust e Linux**, continuando a construir projetos que me ajudem a aprender na prática. Meu objetivo é evoluir com consistência, documentar melhor o que desenvolvo e transformar estudos em soluções úteis.
+Ainda tenho muito a aprender — e é justamente isso que torna a jornada interessante.
 
 <div align="center">
 
@@ -110,11 +106,11 @@ Quero aprofundar meus conhecimentos em **cibersegurança, engenharia reversa, Ru
 <br><br>
 
 <details>
-<summary>🦖 Clique aqui</summary>
+<summary>🦖 Você encontrou o dinossauro escondido</summary>
 
 <br>
 
-Se você chegou até aqui, provavelmente viu mais do que precisava.
+Ele não programa por você. Já tentou, mas só sabe comer bugs.
 
 **Valeu por visitar meu perfil!**
 
