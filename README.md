@@ -19,13 +19,13 @@
 
 E aí! Sou o **Victor**, estudante do **3º ano do Ensino Médio** e Jovem Aprendiz na **MBRF, em uma área ligada ao SIF**.
 
-Gosto de descobrir como as coisas funcionam — principalmente quando posso desmontar uma ideia, entender a lógica por trás dela e construir algo meu. Hoje, meu foco principal é **cibersegurança e engenharia reversa**, mas também gosto de backend, automação, inteligência artificial e desenvolvimento de jogos.
+Gosto de entender como as coisas funcionam — principalmente quando posso pegar uma ideia, entender a lógica por trás dela e construir algo meu. Hoje, meu foco principal interesse de estudo é **cibersegurança e engenharia reversa**(não é a minha area definitiva), mas também estudei sobre de backend, automação, inteligência artificial e desenvolvimento de jogos.
 
-Não estou aqui só para colecionar tecnologias no perfil: quero aprender construindo projetos, errando, corrigindo e entendendo o que acontece por trás do código.
+Aprender construindo projetos, errando, corrigindo e evoluindo. 
 
 > 🦖 Criatividade transforma ideias em realidade.
 
-## 🎯 O que me interessa
+## 🎯 O que me interessa(reforçando, não é área definitiva) 
 
 - 🔐 **Cibersegurança e engenharia reversa** — entender sistemas, analisar software e aprender segurança de forma ética.
 - 🦀 **Rust e programação de sistemas** — explorar uma linguagem que me desafia a entender melhor memória, desempenho e baixo nível.
@@ -93,11 +93,11 @@ Um jogo de cartas autoral que estou desenvolvendo. Além das regras e habilidade
 - 🧠 **IAThon — Dois Vizinhos, Paraná:** participação em uma atividade colaborativa para criar soluções com inteligência artificial.
 - 🧪 **Projetos autorais:** gosto de misturar áreas diferentes e ver até onde uma ideia pode chegar.
 
-## 🌱 Próximo nível
+## 🌱 Próximo passo
 
-Quero fortalecer minha base em **Rust, Linux, cibersegurança e engenharia reversa**, sem deixar de criar projetos próprios. Prefiro aprender um conceito e colocá-lo em prática do que só passar por mais uma lista de tutoriais.
+Quero fortalecer minha base em **Rust, Linux, cibersegurança e engenharia reversa**, sem deixar de criar projetos próprios. Prefiro aprender um conceito e colocá-lo em prática com personalidade .
 
-Ainda tenho muito a aprender — e é justamente isso que torna a jornada interessante.
+É na busca pelo saber que nos tornamos mais humanos.
 
 <div align="center">
 
@@ -106,11 +106,11 @@ Ainda tenho muito a aprender — e é justamente isso que torna a jornada intere
 <br><br>
 
 <details>
-<summary>🦖 Você encontrou o dinossauro escondido</summary>
+<summary>🦖 Você encontrou o dinossauro </summary>
 
 <br>
 
-Ele não programa por você. Já tentou, mas só sabe comer bugs.
+Clickado.
 
 **Valeu por visitar meu perfil!**
 
